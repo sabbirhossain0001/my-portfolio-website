@@ -3,9 +3,22 @@ nav{
     justify-content: space-around;
     }
  .btn{
-     
+     margin-right: 20px;
+ }
+.stl1{
     display: flex;
     justify-content: space-around;
-    margin-right: 50px;
- }
-  
+    align-items: center; 
+   
+}
+/* .bacg{
+    background-image: url("images/background\ image.jpg");
+    background-repeat: no-repeat;
+     
+} */
+body{
+    margin: 0%;
+}
+/* .bacg2{
+    line-height: 10px;
+} */
