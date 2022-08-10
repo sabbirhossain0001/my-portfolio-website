@@ -22,7 +22,7 @@ body{
 /* .bacg2{
     line-height: 10px;
 } */
-.bacg3{
+.provide{
     display: flex;
     flex-direction: column;
     align-items:center;
@@ -32,3 +32,26 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+.provides{
+    display: flex;
+    justify-content: space-around;
+     
+     
+}
+.bacg6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+.services{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.center{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+ 
